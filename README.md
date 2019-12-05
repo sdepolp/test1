@@ -6,4 +6,4 @@ Se despliega el proyecto en el servidor y se vuelca dump de estructura de base d
 
 TestCuponatic.zip es la carpeta comprimida con el proyecto en PHP
 
-
+dumpDatabaseCuponatic.zip es el archivo del script de la base de datos a ser volcada en MySql 
